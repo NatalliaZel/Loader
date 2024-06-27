@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 100vh;
+}
+
+.loader {
+}
+
+.squirrel {
+  width: 100%;
+}
